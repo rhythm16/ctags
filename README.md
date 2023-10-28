@@ -66,7 +66,7 @@ To build with Autotools (Autoconf and Automake) on GNU/Linux, OSX, or Windows 10
 git clone https://github.com/universal-ctags/ctags.git
 cd ctags
 ./autogen.sh
-./configure  # use --prefix=/where/you/want to override installation directory, defaults to /usr/local ??? another change
+./configure  # use --prefix=/where/you/want to override installation directory, defaults to /usr/local ??? another change blabla
 make
 make install # may require extra privileges depending on where to install
 ```
